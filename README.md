@@ -44,12 +44,14 @@ git clone https://github.com/your-username/quiz.io.git
 cd quiz.io``
 
 ### 2. Install Dependencies
-npm install
+``bash
+npm install``
 
 ### 3. Run the App
-npm run dev
+``bash 
+npm run dev``
 
-### Author
+### 🧑‍🦰Author
 
 Suraj Kumar
 
