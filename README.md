@@ -49,9 +49,10 @@ npm install
 ### 3. Run the App
 npm run dev
 
-Author
+### Author
 
 Suraj Kumar
+
 📧 Email: ifeelsuraj@gmail.com
 
 📜 License
