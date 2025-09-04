@@ -41,7 +41,7 @@ Follow these steps to run the project locally:
 ### 1. Clone the Repository
 ``bash
 git clone https://github.com/your-username/quiz.io.git
-cd quiz.io
+cd quiz.io``
 
 ### 2. Install Dependencies
 npm install
